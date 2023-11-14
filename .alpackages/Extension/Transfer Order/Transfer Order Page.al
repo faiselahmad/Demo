@@ -1,6 +1,7 @@
 page 50114 "TO"
 {
-    Caption = 'Transfer Order';
+    Caption = 'TraS_Order';
+    ApplicationArea = All;
     PageType = Document;
     UsageCategory = Lists;
     RefreshOnActivate = true;
