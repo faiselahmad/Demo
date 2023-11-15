@@ -1,4 +1,4 @@
-tableextension 50121 "FAS Sales Header" extends "Sales Header"
+/*tableextension 50121 "FAS Sales Header" extends "Sales Header"
 {
     fields
     {
@@ -8,4 +8,4 @@ tableextension 50121 "FAS Sales Header" extends "Sales Header"
             DataClassification = CustomerContent;
         }
     }
-}
+}*/
